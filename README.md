@@ -18,6 +18,7 @@ A dynamic and user-friendly **Quiz Web Application** built using HTML, CSS, and 
 - **JavaScript** – Dynamic interaction, logic handling
 
 ## 📸 Screenshots
+<img width="798" height="842" alt="Screenshot 2025-07-24 221723" src="https://github.com/user-attachments/assets/41222487-802f-42c7-9f2c-e84a6ccabb44" />
 
 | Home Page | Quiz Interface | Score Page |
 |-----------|----------------|------------|
