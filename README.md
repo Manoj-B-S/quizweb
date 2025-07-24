@@ -18,11 +18,12 @@ A dynamic and user-friendly **Quiz Web Application** built using HTML, CSS, and 
 - **JavaScript** – Dynamic interaction, logic handling
 
 ## 📸 Screenshots
-<img width="798" height="842" alt="Screenshot 2025-07-24 221723" src="https://github.com/user-attachments/assets/41222487-802f-42c7-9f2c-e84a6ccabb44" />
+
+<img width="798" height="842" alt="Screenshot 2025-07-24 221723" src="https://github.com/user-attachments/assets/a6b01f38-4600-42eb-8269-ce79a8e5926c" />
 
 | Home Page | Quiz Interface | Score Page |
 |-----------|----------------|------------|
-| ![home]((https://github.com/user-attachments/assets/41222487-802f-42c7-9f2c-e84a6ccabb44)/200x120) | ![quiz](https://via.placeholder.com/200x120) | ![score](https://via.placeholder.com/200x120) |
+| ![home](https://github.com/user-attachments/assets/a6b01f38-4600-42eb-8269-ce79a8e5926c)| ![quiz](https://via.placeholder.com/200x120) | ![score](https://via.placeholder.com/200x120) |
 
 > 📌 _Replace the above placeholders with actual screenshots if available._
 
