@@ -19,10 +19,11 @@ A dynamic and user-friendly **Quiz Web Application** built using HTML, CSS, and 
 
 ## 📸 Screenshots
 
+<img width="1002" height="863" alt="Screenshot 2025-07-24 221824" src="https://github.com/user-attachments/assets/85d40cda-9002-41c1-8228-9c603dd23b41" />
 
 | Home Page | Quiz Interface | Score Page |
 |-----------|----------------|------------|
-| ![home](https://github.com/user-attachments/assets/a6b01f38-4600-42eb-8269-ce79a8e5926c)| ![quiz](https://github.com/user-attachments/assets/90e38389-0dfb-40ee-bb74-7bd7f1723a1f)| ![score](https://github.com/user-attachments/assets/43d38564-440c-4b73-8662-97d597d5269b") |
+| ![home](https://github.com/user-attachments/assets/a6b01f38-4600-42eb-8269-ce79a8e5926c)| ![quiz](https://github.com/user-attachments/assets/90e38389-0dfb-40ee-bb74-7bd7f1723a1f)| ![score](https://github.com/user-attachments/assets/43d38564-440c-4b73-8662-97d597d5269b) |
 
 > 📌 _Replace the above placeholders with actual screenshots if available._
 
