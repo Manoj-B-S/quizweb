@@ -20,9 +20,7 @@ A dynamic and user-friendly **Quiz Web Application** built using HTML, CSS, and 
 ## 📸 Screenshots
 
 
-| Home Page 
-| Quiz Interface 
-|Score Page |
+| Home Page | Quiz Interface |Score Page |
 |-----------|----------------|------------|
 | ![home](https://github.com/user-attachments/assets/a6b01f38-4600-42eb-8269-ce79a8e5926c)| 
 ![quiz](https://github.com/user-attachments/assets/90e38389-0dfb-40ee-bb74-7bd7f1723a1f)| 
