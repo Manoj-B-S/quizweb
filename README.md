@@ -22,7 +22,7 @@ A dynamic and user-friendly **Quiz Web Application** built using HTML, CSS, and 
 
 | Home Page | Quiz Interface | Score Page |
 |-----------|----------------|------------|
-| ![home]([https://via.placeholder.com](https://github.com/user-attachments/assets/41222487-802f-42c7-9f2c-e84a6ccabb44)/200x120) | ![quiz](https://via.placeholder.com/200x120) | ![score](https://via.placeholder.com/200x120) |
+| ![home]((https://github.com/user-attachments/assets/41222487-802f-42c7-9f2c-e84a6ccabb44)/200x120) | ![quiz](https://via.placeholder.com/200x120) | ![score](https://via.placeholder.com/200x120) |
 
 > 📌 _Replace the above placeholders with actual screenshots if available._
 
